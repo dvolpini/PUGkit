@@ -5,7 +5,7 @@ A PICkit 2 clone with Arduino UNO form factor
 
 Microchip is very commom in Latin America, especially in Brazil where I live!
 
-But... Arduino is the revolution!
+But... Arduino is the revolution!!
 
 So the idea is get the best of the two Worlds: use the PICs with de Arduino Shield.
 
