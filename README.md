@@ -1,13 +1,13 @@
 PUGkit
 ======
 
-A PICkit 2 clone with Arduino UNO form factor
+A PICkit 2 clone with Arduino UNO form factor!
 
 Microchip is very commom in Latin America, especially in Brazil where I live!
 
-But... Arduino is the revolution!!
+But... Arduino is the revolution!
 
-So the idea is get the best of the two Worlds: use the PICs with de Arduino Shield.
+So the idea is get the best of the two Worlds: use the PICs with the Arduino Shield.
 
 The idea in a first moment is just  design the hardware (based in the PICkit 2) and still use the PICkit 2 Software.
 
